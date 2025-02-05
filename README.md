@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This is the **Node.js backend** for the **Fuel Management System**, built with **Express.js** and **MySQL**.  
-It allows businesses to submit **fuel requests**, track activities, and handle **admin approvals** for abnormal fuel requests.  
+It allows businesses to submit **abnormal fuel requests**, and handle **admin approvals** for abnormal fuel requests.  
 The backend will eventually integrate with a **React frontend** to provide a full-stack solution.
 
 ## 🏗️ Project Features
